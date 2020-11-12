@@ -47,7 +47,7 @@ Web Util Application
     4-1. 유저 및 데이터베이스 생성
 4. git repo 클론
 ```
-git clone https://github.com/byun618/KNUP.git
+git clone https://github.com/yuminee/KNUP.git
 ```
 5. npm 모듈 설치
 ```
